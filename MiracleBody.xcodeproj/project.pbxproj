@@ -10,7 +10,7 @@
 		EE72CE261E9CF5BE004F1FB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE72CE251E9CF5BE004F1FB4 /* AppDelegate.swift */; };
 		EE72CE281E9CF5BE004F1FB4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE72CE271E9CF5BE004F1FB4 /* ViewController.swift */; };
 		EE72CE2B1E9CF5BE004F1FB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE72CE291E9CF5BE004F1FB4 /* Main.storyboard */; };
-		EE72CE2D1E9CF5BE004F1FB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE72CE2C1E9CF5BE004F1FB4 /* Assets.xcassets */; };
+		EE72CE2D1E9CF5BE004F1FB4 /* AssetsView.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE72CE2C1E9CF5BE004F1FB4 /* AssetsView.xcassets */; };
 		EE72CE301E9CF5BE004F1FB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE72CE2E1E9CF5BE004F1FB4 /* LaunchScreen.storyboard */; };
 		EE72CE3B1E9CF5BE004F1FB4 /* MiracleBodyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE72CE3A1E9CF5BE004F1FB4 /* MiracleBodyTests.swift */; };
 		EE72CE461E9CF5BE004F1FB4 /* MiracleBodyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE72CE451E9CF5BE004F1FB4 /* MiracleBodyUITests.swift */; };
@@ -38,7 +38,7 @@
 		EE72CE251E9CF5BE004F1FB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EE72CE271E9CF5BE004F1FB4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EE72CE2A1E9CF5BE004F1FB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EE72CE2C1E9CF5BE004F1FB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EE72CE2C1E9CF5BE004F1FB4 /* AssetsView.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = AssetsView.xcassets; sourceTree = "<group>"; };
 		EE72CE2F1E9CF5BE004F1FB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE72CE311E9CF5BE004F1FB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE72CE361E9CF5BE004F1FB4 /* MiracleBodyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MiracleBodyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -100,7 +100,7 @@
 				EE72CE251E9CF5BE004F1FB4 /* AppDelegate.swift */,
 				EE72CE271E9CF5BE004F1FB4 /* ViewController.swift */,
 				EE72CE291E9CF5BE004F1FB4 /* Main.storyboard */,
-				EE72CE2C1E9CF5BE004F1FB4 /* Assets.xcassets */,
+				EE72CE2C1E9CF5BE004F1FB4 /* AssetsView.xcassets */,
 				EE72CE2E1E9CF5BE004F1FB4 /* LaunchScreen.storyboard */,
 				EE72CE311E9CF5BE004F1FB4 /* Info.plist */,
 			);
@@ -236,7 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE72CE301E9CF5BE004F1FB4 /* LaunchScreen.storyboard in Resources */,
-				EE72CE2D1E9CF5BE004F1FB4 /* Assets.xcassets in Resources */,
+				EE72CE2D1E9CF5BE004F1FB4 /* AssetsView.xcassets in Resources */,
 				EE72CE2B1E9CF5BE004F1FB4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -516,6 +516,7 @@
 				EE72CE4C1E9CF5BE004F1FB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EE72CE4D1E9CF5BE004F1FB4 /* Build configuration list for PBXNativeTarget "MiracleBodyTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				EE72CE4F1E9CF5BE004F1FB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EE72CE501E9CF5BE004F1FB4 /* Build configuration list for PBXNativeTarget "MiracleBodyUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				EE72CE521E9CF5BE004F1FB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

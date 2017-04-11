@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EB0CD604B516698DEB239CF9011D870475E57B25",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EB0CD604B516698DEB239CF9011D870475E57B25" : 9223372036854775807,
+    "7BBA9D676EB68C0B7C59B22C5FE22976CD515531" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "63CC9CDE-EBA2-4BC7-BD0E-4A20D4BB99D0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EB0CD604B516698DEB239CF9011D870475E57B25" : "MiracleBody\/",
+    "7BBA9D676EB68C0B7C59B22C5FE22976CD515531" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MiracleBody",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MiracleBody.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lilmissShana\/MiracleBody.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7BBA9D676EB68C0B7C59B22C5FE22976CD515531"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lilmissShana\/MiracleBody.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB0CD604B516698DEB239CF9011D870475E57B25"
+    }
+  ]
+}
